@@ -101,6 +101,14 @@ header .navbar ul li:focus-within .arrow-wrap {
     margin-left: 1em;
 }
 
+/*Here's the whatsapp icon*/
+
+.whatsapp{
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+}
+
 
 .logo {
     color: #E0FBFC;
